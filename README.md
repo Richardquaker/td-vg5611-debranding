@@ -2,7 +2,7 @@ Firmware modificado para pular o wizard da algar telecom por Ricardo Gauer, Risc
 
 arquivos Td-vg5611 Debrand.7z
 
-Acessar configurações, endereço 192.168.1.1/main.html
+Acessar configurações, endereço 192.168.1.1/main.html user super senha super
 
 Passar o arquivo de configução para habilitar o telnet config.bin
 
