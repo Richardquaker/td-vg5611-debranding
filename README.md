@@ -1,7 +1,5 @@
 Firmware modificado para pular o wizard da algar telecom por Ricardo Gauer, Risco de Brick não nos responsabilizamos
 
-caso de brick regravar eepron usando gravador CH341A e backup já modificado "Full dump 19 (no Wizzard).Bin.BIN"
-
 arquivos Td-vg5611 Debrand.7z
 
 Acessar configurações, endereço 192.168.0.1/main.html
@@ -38,4 +36,4 @@ cat /var/tmp/mtd4 > /dev/mtdblock4
 
 cat /var/tmp/mtd5 > /dev/mtdblock5
 
-Caso Brick do aparelho
+caso de brick regravar eepron usando gravador CH341A e backup já modificado "Full dump 19 (no Wizzard).Bin.BIN"
